@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BgServicesTest": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
